@@ -54,4 +54,4 @@ Throughout my career, I have worked with diverse web frameworks, including Micro
 ## 📫 Connect with Me
 
 * 📧 Email: [shymaa.m.ismail@gmail.com](mailto:shymaa.m.ismail@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/ShymaaIsmail](https://linkedin.com/in/Shymaa-mIsmail)
+* 💼 LinkedIn: [linkedin.com/in/Shymaa-m-Ismail](https://linkedin.com/in/Shymaa-m-Ismail)
