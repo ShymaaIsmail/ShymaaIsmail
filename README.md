@@ -42,12 +42,6 @@ Throughout my career, I have worked with diverse web frameworks, including Micro
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShymaaIsmail\&show_icons=true\&theme=radical)
-
----
-
 ## 🏆 Achievements & Highlights
 
 * Authored "Whiteboarding Simple Shell: A Guide for ALX SE Community," providing technical guidance for aspiring developers.
@@ -60,4 +54,4 @@ Throughout my career, I have worked with diverse web frameworks, including Micro
 ## 📫 Connect with Me
 
 * 📧 Email: [shymaa.m.ismail@gmail.com](mailto:shymaa.m.ismail@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/ShymaaIsmail](https://linkedin.com/in/ShymaaIsmail)
+* 💼 LinkedIn: [linkedin.com/in/ShymaaIsmail](https://linkedin.com/in/Shymaa-mIsmail)
